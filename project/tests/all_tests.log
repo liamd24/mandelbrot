@@ -1,0 +1,1132 @@
+Script started on 2026-03-24 02:01:08+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="129" LINES="15"]
+[?2004h]0;liamd@aurora: ~/school/4350/project[01;32mliamd@aurora[00m:[01;34m~/school/4350/project[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;liamd@aurora: ~/school/4350/project[01;32mliamd@aurora[00m:[01;34m~/school/4350/project[00m$ ./run_tests.sh [K
+[?2004l=== Threads: 1 ===
+Running: ./mandelbrot tests/output_standard_1.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 1
+
+Starting.
+Successfully saved tests/output_standard_1.png to images/tests/output_standard_1.png
+Mandelbrot Calculation Time:
+    75245059	ns
+    0.075245	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_1.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 1
+
+Starting.
+Successfully saved tests/output_standard_1.png to images/tests/output_standard_1.png
+Mandelbrot Calculation Time:
+    260444848	ns
+    0.260445	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_1.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 1
+
+Starting.
+Successfully saved tests/output_standard_1.png to images/tests/output_standard_1.png
+Mandelbrot Calculation Time:
+    334057720	ns
+    0.334058	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_1.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 1
+
+Starting.
+Successfully saved tests/output_standard_1.png to images/tests/output_standard_1.png
+Mandelbrot Calculation Time:
+    2433696	ns
+    0.002434	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_1.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 1
+
+Starting.
+Successfully saved tests/output_seahorse_1.png to images/tests/output_seahorse_1.png
+Mandelbrot Calculation Time:
+    75152789	ns
+    0.075153	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_1.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 1
+
+Starting.
+Successfully saved tests/output_seahorse_1.png to images/tests/output_seahorse_1.png
+Mandelbrot Calculation Time:
+    262062354	ns
+    0.262062	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_1.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 1
+
+Starting.
+Successfully saved tests/output_seahorse_1.png to images/tests/output_seahorse_1.png
+Mandelbrot Calculation Time:
+    332466226	ns
+    0.332466	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_1.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 1
+
+Starting.
+Successfully saved tests/output_seahorse_1.png to images/tests/output_seahorse_1.png
+Mandelbrot Calculation Time:
+    2782370	ns
+    0.002782	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_1.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 1
+
+Starting.
+Successfully saved tests/output_void_1.png to images/tests/output_void_1.png
+Mandelbrot Calculation Time:
+    78729353	ns
+    0.078729	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_1.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 1
+
+Starting.
+Successfully saved tests/output_void_1.png to images/tests/output_void_1.png
+Mandelbrot Calculation Time:
+    261191948	ns
+    0.261192	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_1.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 1
+
+Starting.
+Successfully saved tests/output_void_1.png to images/tests/output_void_1.png
+Mandelbrot Calculation Time:
+    331867065	ns
+    0.331867	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_1.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 1
+
+Starting.
+Successfully saved tests/output_void_1.png to images/tests/output_void_1.png
+Mandelbrot Calculation Time:
+    2531381	ns
+    0.002531	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_1.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 1
+
+Starting.
+Successfully saved tests/output_empty_1.png to images/tests/output_empty_1.png
+Mandelbrot Calculation Time:
+    71189336	ns
+    0.071189	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_1.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 1
+
+Starting.
+Successfully saved tests/output_empty_1.png to images/tests/output_empty_1.png
+Mandelbrot Calculation Time:
+    265691307	ns
+    0.265691	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_1.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 1
+
+Starting.
+Successfully saved tests/output_empty_1.png to images/tests/output_empty_1.png
+Mandelbrot Calculation Time:
+    330020613	ns
+    0.330021	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_1.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 1
+
+Starting.
+Successfully saved tests/output_empty_1.png to images/tests/output_empty_1.png
+Mandelbrot Calculation Time:
+    3054486	ns
+    0.003054	sec
+----- END -----
+=== Threads: 2 ===
+Running: ./mandelbrot tests/output_standard_2.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 2
+
+Starting.
+Successfully saved tests/output_standard_2.png to images/tests/output_standard_2.png
+Mandelbrot Calculation Time:
+    41893034	ns
+    0.041893	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_2.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 2
+
+Starting.
+Successfully saved tests/output_standard_2.png to images/tests/output_standard_2.png
+Mandelbrot Calculation Time:
+    148788920	ns
+    0.148789	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_2.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 2
+
+Starting.
+Successfully saved tests/output_standard_2.png to images/tests/output_standard_2.png
+Mandelbrot Calculation Time:
+    183873987	ns
+    0.183874	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_2.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 2
+
+Starting.
+Successfully saved tests/output_standard_2.png to images/tests/output_standard_2.png
+Mandelbrot Calculation Time:
+    3365059	ns
+    0.003365	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_2.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 2
+
+Starting.
+Successfully saved tests/output_seahorse_2.png to images/tests/output_seahorse_2.png
+Mandelbrot Calculation Time:
+    40590279	ns
+    0.040590	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_2.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 2
+
+Starting.
+Successfully saved tests/output_seahorse_2.png to images/tests/output_seahorse_2.png
+Mandelbrot Calculation Time:
+    148243926	ns
+    0.148244	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_2.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 2
+
+Starting.
+Successfully saved tests/output_seahorse_2.png to images/tests/output_seahorse_2.png
+Mandelbrot Calculation Time:
+    186216723	ns
+    0.186217	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_2.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 2
+
+Starting.
+Successfully saved tests/output_seahorse_2.png to images/tests/output_seahorse_2.png
+Mandelbrot Calculation Time:
+    4214192	ns
+    0.004214	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_2.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 2
+
+Starting.
+Successfully saved tests/output_void_2.png to images/tests/output_void_2.png
+Mandelbrot Calculation Time:
+    40187796	ns
+    0.040188	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_2.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 2
+
+Starting.
+Successfully saved tests/output_void_2.png to images/tests/output_void_2.png
+Mandelbrot Calculation Time:
+    151018104	ns
+    0.151018	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_2.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 2
+
+Starting.
+Successfully saved tests/output_void_2.png to images/tests/output_void_2.png
+Mandelbrot Calculation Time:
+    188899139	ns
+    0.188899	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_2.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 2
+
+Starting.
+Successfully saved tests/output_void_2.png to images/tests/output_void_2.png
+Mandelbrot Calculation Time:
+    3224711	ns
+    0.003225	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_2.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 2
+
+Starting.
+Successfully saved tests/output_empty_2.png to images/tests/output_empty_2.png
+Mandelbrot Calculation Time:
+    39807773	ns
+    0.039808	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_2.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 2
+
+Starting.
+Successfully saved tests/output_empty_2.png to images/tests/output_empty_2.png
+Mandelbrot Calculation Time:
+    143944160	ns
+    0.143944	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_2.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 2
+
+Starting.
+Successfully saved tests/output_empty_2.png to images/tests/output_empty_2.png
+Mandelbrot Calculation Time:
+    183284992	ns
+    0.183285	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_2.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 2
+
+Starting.
+Successfully saved tests/output_empty_2.png to images/tests/output_empty_2.png
+Mandelbrot Calculation Time:
+    3210462	ns
+    0.003210	sec
+----- END -----
+=== Threads: 4 ===
+Running: ./mandelbrot tests/output_standard_4.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 4
+
+Starting.
+Successfully saved tests/output_standard_4.png to images/tests/output_standard_4.png
+Mandelbrot Calculation Time:
+    24131314	ns
+    0.024131	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_4.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 4
+
+Starting.
+Successfully saved tests/output_standard_4.png to images/tests/output_standard_4.png
+Mandelbrot Calculation Time:
+    84573751	ns
+    0.084574	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_4.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 4
+
+Starting.
+Successfully saved tests/output_standard_4.png to images/tests/output_standard_4.png
+Mandelbrot Calculation Time:
+    107857913	ns
+    0.107858	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_4.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 4
+
+Starting.
+Successfully saved tests/output_standard_4.png to images/tests/output_standard_4.png
+Mandelbrot Calculation Time:
+    2648086	ns
+    0.002648	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_4.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 4
+
+Starting.
+Successfully saved tests/output_seahorse_4.png to images/tests/output_seahorse_4.png
+Mandelbrot Calculation Time:
+    24381601	ns
+    0.024382	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_4.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 4
+
+Starting.
+Successfully saved tests/output_seahorse_4.png to images/tests/output_seahorse_4.png
+Mandelbrot Calculation Time:
+    83163434	ns
+    0.083163	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_4.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 4
+
+Starting.
+Successfully saved tests/output_seahorse_4.png to images/tests/output_seahorse_4.png
+Mandelbrot Calculation Time:
+    107405536	ns
+    0.107406	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_4.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 4
+
+Starting.
+Successfully saved tests/output_seahorse_4.png to images/tests/output_seahorse_4.png
+Mandelbrot Calculation Time:
+    2768374	ns
+    0.002768	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_4.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 4
+
+Starting.
+Successfully saved tests/output_void_4.png to images/tests/output_void_4.png
+Mandelbrot Calculation Time:
+    23725949	ns
+    0.023726	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_4.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 4
+
+Starting.
+Successfully saved tests/output_void_4.png to images/tests/output_void_4.png
+Mandelbrot Calculation Time:
+    83259197	ns
+    0.083259	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_4.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 4
+
+Starting.
+Successfully saved tests/output_void_4.png to images/tests/output_void_4.png
+Mandelbrot Calculation Time:
+    107734511	ns
+    0.107735	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_4.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 4
+
+Starting.
+Successfully saved tests/output_void_4.png to images/tests/output_void_4.png
+Mandelbrot Calculation Time:
+    2698661	ns
+    0.002699	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_4.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 4
+
+Starting.
+Successfully saved tests/output_empty_4.png to images/tests/output_empty_4.png
+Mandelbrot Calculation Time:
+    24542966	ns
+    0.024543	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_4.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 4
+
+Starting.
+Successfully saved tests/output_empty_4.png to images/tests/output_empty_4.png
+Mandelbrot Calculation Time:
+    84093374	ns
+    0.084093	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_4.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 4
+
+Starting.
+Successfully saved tests/output_empty_4.png to images/tests/output_empty_4.png
+Mandelbrot Calculation Time:
+    107490853	ns
+    0.107491	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_4.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 4
+
+Starting.
+Successfully saved tests/output_empty_4.png to images/tests/output_empty_4.png
+Mandelbrot Calculation Time:
+    3048378	ns
+    0.003048	sec
+----- END -----
+=== Threads: 8 ===
+Running: ./mandelbrot tests/output_standard_8.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 8
+
+Starting.
+Successfully saved tests/output_standard_8.png to images/tests/output_standard_8.png
+Mandelbrot Calculation Time:
+    13679432	ns
+    0.013679	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_8.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 8
+
+Starting.
+Successfully saved tests/output_standard_8.png to images/tests/output_standard_8.png
+Mandelbrot Calculation Time:
+    45070641	ns
+    0.045071	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_8.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 8
+
+Starting.
+Successfully saved tests/output_standard_8.png to images/tests/output_standard_8.png
+Mandelbrot Calculation Time:
+    59038829	ns
+    0.059039	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_8.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 8
+
+Starting.
+Successfully saved tests/output_standard_8.png to images/tests/output_standard_8.png
+Mandelbrot Calculation Time:
+    3376134	ns
+    0.003376	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_8.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 8
+
+Starting.
+Successfully saved tests/output_seahorse_8.png to images/tests/output_seahorse_8.png
+Mandelbrot Calculation Time:
+    13660628	ns
+    0.013661	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_8.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 8
+
+Starting.
+Successfully saved tests/output_seahorse_8.png to images/tests/output_seahorse_8.png
+Mandelbrot Calculation Time:
+    46509599	ns
+    0.046510	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_8.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 8
+
+Starting.
+Successfully saved tests/output_seahorse_8.png to images/tests/output_seahorse_8.png
+Mandelbrot Calculation Time:
+    58811557	ns
+    0.058812	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_8.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 8
+
+Starting.
+Successfully saved tests/output_seahorse_8.png to images/tests/output_seahorse_8.png
+Mandelbrot Calculation Time:
+    3423735	ns
+    0.003424	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_8.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 8
+
+Starting.
+Successfully saved tests/output_void_8.png to images/tests/output_void_8.png
+Mandelbrot Calculation Time:
+    14255067	ns
+    0.014255	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_8.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 8
+
+Starting.
+Successfully saved tests/output_void_8.png to images/tests/output_void_8.png
+Mandelbrot Calculation Time:
+    45211639	ns
+    0.045212	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_8.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 8
+
+Starting.
+Successfully saved tests/output_void_8.png to images/tests/output_void_8.png
+Mandelbrot Calculation Time:
+    58835701	ns
+    0.058836	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_8.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 8
+
+Starting.
+Successfully saved tests/output_void_8.png to images/tests/output_void_8.png
+Mandelbrot Calculation Time:
+    3857745	ns
+    0.003858	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_8.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 8
+
+Starting.
+Successfully saved tests/output_empty_8.png to images/tests/output_empty_8.png
+Mandelbrot Calculation Time:
+    14284711	ns
+    0.014285	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_8.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 8
+
+Starting.
+Successfully saved tests/output_empty_8.png to images/tests/output_empty_8.png
+Mandelbrot Calculation Time:
+    45094512	ns
+    0.045095	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_8.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 8
+
+Starting.
+Successfully saved tests/output_empty_8.png to images/tests/output_empty_8.png
+Mandelbrot Calculation Time:
+    58695023	ns
+    0.058695	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_8.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 8
+
+Starting.
+Successfully saved tests/output_empty_8.png to images/tests/output_empty_8.png
+Mandelbrot Calculation Time:
+    3374507	ns
+    0.003375	sec
+----- END -----
+=== Threads: 12 ===
+Running: ./mandelbrot tests/output_standard_12.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 12
+
+Starting.
+Successfully saved tests/output_standard_12.png to images/tests/output_standard_12.png
+Mandelbrot Calculation Time:
+    10301109	ns
+    0.010301	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_12.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 12
+
+Starting.
+Successfully saved tests/output_standard_12.png to images/tests/output_standard_12.png
+Mandelbrot Calculation Time:
+    33797724	ns
+    0.033798	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_12.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 12
+
+Starting.
+Successfully saved tests/output_standard_12.png to images/tests/output_standard_12.png
+Mandelbrot Calculation Time:
+    39876229	ns
+    0.039876	sec
+----- END -----
+Running: ./mandelbrot tests/output_standard_12.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 12
+
+Starting.
+Successfully saved tests/output_standard_12.png to images/tests/output_standard_12.png
+Mandelbrot Calculation Time:
+    4813143	ns
+    0.004813	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_12.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 12
+
+Starting.
+Successfully saved tests/output_seahorse_12.png to images/tests/output_seahorse_12.png
+Mandelbrot Calculation Time:
+    9922641	ns
+    0.009923	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_12.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 12
+
+Starting.
+Successfully saved tests/output_seahorse_12.png to images/tests/output_seahorse_12.png
+Mandelbrot Calculation Time:
+    31084146	ns
+    0.031084	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_12.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 12
+
+Starting.
+Successfully saved tests/output_seahorse_12.png to images/tests/output_seahorse_12.png
+Mandelbrot Calculation Time:
+    39307533	ns
+    0.039308	sec
+----- END -----
+Running: ./mandelbrot tests/output_seahorse_12.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 12
+
+Starting.
+Successfully saved tests/output_seahorse_12.png to images/tests/output_seahorse_12.png
+Mandelbrot Calculation Time:
+    4748020	ns
+    0.004748	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_12.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 12
+
+Starting.
+Successfully saved tests/output_void_12.png to images/tests/output_void_12.png
+Mandelbrot Calculation Time:
+    10184166	ns
+    0.010184	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_12.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 12
+
+Starting.
+Successfully saved tests/output_void_12.png to images/tests/output_void_12.png
+Mandelbrot Calculation Time:
+    31126151	ns
+    0.031126	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_12.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 12
+
+Starting.
+Successfully saved tests/output_void_12.png to images/tests/output_void_12.png
+Mandelbrot Calculation Time:
+    39863334	ns
+    0.039863	sec
+----- END -----
+Running: ./mandelbrot tests/output_void_12.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 12
+
+Starting.
+Successfully saved tests/output_void_12.png to images/tests/output_void_12.png
+Mandelbrot Calculation Time:
+    4695594	ns
+    0.004696	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_12.png 1 -0.5 0
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1.0000
+center:  -0.5000000000, 0.0000000000
+threads: 12
+
+Starting.
+Successfully saved tests/output_empty_12.png to images/tests/output_empty_12.png
+Mandelbrot Calculation Time:
+    9876637	ns
+    0.009877	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_12.png 1000 -0.7436438870 0.1318259042
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    1000.0000
+center:  -0.7436438870, 0.1318259042
+threads: 12
+
+Starting.
+Successfully saved tests/output_empty_12.png to images/tests/output_empty_12.png
+Mandelbrot Calculation Time:
+    31791296	ns
+    0.031791	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_12.png 2000 -0.1984584369 1.1002709224
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    2000.0000
+center:  -0.1984584369, 1.1002709224
+threads: 12
+
+Starting.
+Successfully saved tests/output_empty_12.png to images/tests/output_empty_12.png
+Mandelbrot Calculation Time:
+    39975756	ns
+    0.039976	sec
+----- END -----
+Running: ./mandelbrot tests/output_empty_12.png 10 -1.2338866889 -0.7041311504
+----- RENDERING -----
+width:   1920
+height:  1080
+zoom:    10.0000
+center:  -1.2338866889, -0.7041311504
+threads: 12
+
+Starting.
+Successfully saved tests/output_empty_12.png to images/tests/output_empty_12.png
+Mandelbrot Calculation Time:
+    4789558	ns
+    0.004790	sec
+----- END -----
+[?2004h]0;liamd@aurora: ~/school/4350/project[01;32mliamd@aurora[00m:[01;34m~/school/4350/project[00m$ exit
+[?2004lexit
+
+Script done on 2026-03-24 02:01:45+00:00 [COMMAND_EXIT_CODE="0"]
